@@ -2,7 +2,7 @@
   background-color: rgba(255, 0, 0, 0) !important;
 }
 .jumbotron h1 {
-  color: rgba(255, 255, 255, 0.8)!important;
+  color: rgba(255, 255, 255, 0.95)!important;
 }
 .jumbotron h2 {
   color: rgba(255, 255, 255, 0.6)!important;
@@ -13,4 +13,17 @@
 }
 .topper {
   color: rgba(255, 255, 255, 0.0);
+}
+
+h2, h3 {
+  text-align: center;
+}
+h3.aboutme {
+  text-align: left;
+}
+.projects1 {
+  margin-top: 40px;
+}
+.education, .experience, .aboutme {
+  margin-top: 50px;
 }
