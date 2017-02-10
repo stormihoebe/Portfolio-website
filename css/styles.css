@@ -1,3 +1,9 @@
+body {
+  background-color: #e0e0de !important;
+}
+p {
+  font-size: 1.3em;
+}
 .jumbotron {
   background-color: rgba(255, 0, 0, 0) !important;
 }
@@ -21,9 +27,17 @@ h2, h3 {
 h3.aboutme {
   text-align: left;
 }
+.aboutme {
+  padding-bottom: 70px;
+
+}
 .projects1 {
   margin-top: 40px;
 }
 .education, .experience, .aboutme {
-  margin-top: 50px;
+  margin-top: 30px;
+}
+.bgblack {
+  background-color: #212121;
+  color: white;
 }
