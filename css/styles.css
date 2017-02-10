@@ -39,12 +39,9 @@ img {
 h2, h3 {
   text-align: center;
 }
-h3.aboutme {
-  text-align: left;
-}
+
 .aboutme {
   padding-bottom: 70px;
-
 }
 .projects1, .projects2 {
   margin-top: 40px;
@@ -55,8 +52,13 @@ h3.aboutme {
 .education {
   padding-right: 50px;
 }
-a.school {
-  margin-right: 15px;
+.glyphicon {
+  text-align: center;
+  font-size: 100px;
+  margin: 25px;
+}
+.aboutmec {
+  text-align: center;
 }
 .bgblack {
   background-color: #212121;
@@ -65,4 +67,10 @@ a.school {
 }
 .right {
   float: right;
+}
+.lastrow {
+  padding-bottom: 30px;
+}
+.aboutmec {
+  text-align: center;
 }
