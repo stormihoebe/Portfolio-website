@@ -1,0 +1,16 @@
+.jumbotron {
+  background-color: rgba(255, 0, 0, 0) !important;
+}
+.jumbotron h1 {
+  color: rgba(255, 255, 255, 0.8)!important;
+}
+.jumbotron h2 {
+  color: rgba(255, 255, 255, 0.6)!important;
+}
+.heading {
+  text-align: center;
+  background-color: #3e4042;
+}
+.topper {
+  color: rgba(255, 255, 255, 0.0);
+}
