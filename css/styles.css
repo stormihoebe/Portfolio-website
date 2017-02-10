@@ -50,8 +50,17 @@ h3.aboutme {
 .education, .experience, .aboutme {
   margin-top: 30px;
 }
+.education {
+  padding-right: 50px;
+}
+a.school {
+  margin-right: 15px;
+}
 .bgblack {
   background-color: #212121;
   color: white;
   padding-bottom: 40px;
+}
+.right {
+  float: right;
 }
